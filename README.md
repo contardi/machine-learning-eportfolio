@@ -26,6 +26,9 @@ This comprehensive module covers the theoretical foundations and practical appli
 - Understand the machine learning pipeline and workflow
 - Identify appropriate ML approaches for different problem types
 
+**Collaborative Discussion**  
+[**The 4th Industrial Revolution**](unit-01/collaborative-discussion.md) 
+
 
 ---
 
