@@ -185,6 +185,9 @@ The group assignment repository from this unit can be found [here]([https://gith
 - Implement deep learning solutions for diverse domains
 - Optimize models for production deployment
 
+In this module we have used a CNN explainer to help visualize the CNN model's decision-making process:
+[CNN Explainer/](https://poloclub.github.io/cnn-explainer/)
+
 
 ---
 
@@ -280,7 +283,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- University faculty and course instructors
+- University of Essex and course instructors
 - Open-source community for datasets and libraries
 - Fellow students for collaborative learning
 
