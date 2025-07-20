@@ -160,6 +160,10 @@ The group assignment repository from this unit can be found [here]([https://gith
 |----------|-------------|---------------|
 | [**01-gradient_descent_cost_function.ipynb**](unit-08/01-gradient_descent_cost_function.ipynb) | Gradient descent implementation with learning rate analysis | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/contardi/machine-learning-portfolio/blob/main/unit-08/01-gradient_descent_cost_function.ipynb) |
 
+**Collaborative Discussion 2**  
+[**Legal and Ethical Views on ANN Applications**](unit-08/collaborative-discussion.md) 
+
+
 ---
 
 ### Unit 9: Deep Learning - Convolutional Neural Networks
