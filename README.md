@@ -17,6 +17,8 @@ This comprehensive module covers the theoretical foundations and practical appli
 
 ## 🗂️ Repository Structure
 
+The repository is organized into units, each containing Jupyter notebooks, datasets, and collaborative discussions. Below is a brief overview of each unit and its artifacts:
+
 ### Unit 1: Introduction to Machine Learning
 
 **Objective**: Establish foundational understanding of machine learning paradigms, terminology, and core concepts.
@@ -121,8 +123,6 @@ This comprehensive module covers the theoretical foundations and practical appli
 | [**02-task-a-iris-kmeans.ipynb**](unit-06/02-task-a-iris-kmeans.ipynb) | K-Means clustering on Iris dataset (K=3) with species comparison | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/contardi/machine-learning-portfolio/blob/main/unit-06/02-task-a-iris-kmeans.ipynb) |
 | [**03-task-b-wine-kmeans.ipynb**](unit-06/03-task-b-wine-kmeans.ipynb) | Wine quality clustering based on chemical composition | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/contardi/machine-learning-portfolio/blob/main/unit-06/03-task-b-wine-kmeans.ipynb) |
 | [**04-task-c-weather-aus-kmeans.ipynb**](unit-06/04-task-c-weather-aus-kmeans.ipynb) | Australian weather pattern clustering (145K records) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/contardi/machine-learning-portfolio/blob/main/unit-06/04-task-c-weather-aus-kmeans.ipynb) |
-
-**Datasets**: `iris.csv`, `wine.csv`, `weatherAUS.csv`
 
 The group assignment repository from this unit can be found [here]([https://github.com/tm3-machine-learning/airbnb])
 
@@ -285,13 +285,5 @@ jupyter lab
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 🙏 Acknowledgments
-
-- University of Essex and course instructors
-- Open-source community for datasets and libraries
-- Fellow students for collaborative learning
 
 ---
